@@ -1,2 +1,14 @@
-# JobApp
-This a practice project to learn basic concepts of react native followed by a youtube course
+# Expo Router Example
+
+Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+
+## 🚀 How to use
+
+```sh
+npx create-expo-app -e with-router
+```
+
+## 📝 Notes
+
+- [Expo Router: Docs](https://expo.github.io/router)
+- [Expo Router: Repo](https://github.com/expo/router)
